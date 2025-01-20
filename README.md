@@ -16,7 +16,6 @@ The repository "Number Guessing Game" implements a simple number guessing game w
 ## Prerequisites
 Before you begin, make sure you have the following installed:
 - Python 3+
-- 
 ---
 
 ## Installation
@@ -24,7 +23,7 @@ Follow these steps to set up the project locally:
 
   1. Clone the repository:
      ```bash
-     git clone https://github.com/username/Number-Guessing-Game.git
+     git clone https://github.com/ibrahim-sisar/Number-Guessing-Game.git
      ```
   2. Navigate to the project directory:
     ```bash
@@ -35,15 +34,11 @@ Follow these steps to set up the project locally:
      python main.py
      ```
 ## Usage
-  [Explain how to use your project. Provide examples if possible.]
+  ![usage.gif](usage.gif)
   
-## Screenshots
-  [Add screenshots or images to showcase your project.]
-
 ## Technologies Used
-  - [Technology 1]
-  - [Technology 2]
-  - [Technology 3]
+  - python
+  - random lib
 
 ## Contributing
   #### Contributions are welcome! Please follow these steps:
