@@ -26,9 +26,9 @@ Follow these steps to set up the project locally:
      git clone https://github.com/ibrahim-sisar/Number-Guessing-Game.git
      ```
   2. Navigate to the project directory:
-    ```bash
-    cd Number-Guessing-Game
-    ```
+      ```bash
+      cd Number-Guessing-Game
+      ```
   3. Run code:
      ```bash
      python main.py
